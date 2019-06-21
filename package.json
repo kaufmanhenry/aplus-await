@@ -1,6 +1,6 @@
 {
   "name": "two-arg-promise",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "repository": "git@github.com:hcjk/two-arg-promise.git",
   "author": "Henry Kaufman <hkaufman19@gmail.com>",
