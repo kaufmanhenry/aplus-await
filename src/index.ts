@@ -1,4 +1,4 @@
-export default async function twoArgPromise(promise: () => Promise<any>) {
+export default async function aplusAwait(promise: () => Promise<any>) {
   let response;
   let error;
 

@@ -1,8 +1,8 @@
 {
-  "name": "two-arg-promise",
+  "name": "aplus-await",
   "version": "0.0.2",
   "main": "dist/index.js",
-  "repository": "git@github.com:hcjk/two-arg-promise.git",
+  "repository": "git@github.com:hcjk/aplus-await.git",
   "author": "Henry Kaufman <hkaufman19@gmail.com>",
   "license": "MIT",
   "scripts": {
