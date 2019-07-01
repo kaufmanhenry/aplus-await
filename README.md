@@ -1,6 +1,6 @@
 # aplus-await [![travis-badge](https://travis-ci.org/hcjk/aplus-await.svg?branch=master)](https://travis-ci.org/hcjk/aplus-await)
 
-A simple way of handling async/await responses with array destructuring.
+A simple way of handling async/await responses with array destructuring. The original concept for this package was derived from [Promises/A+](https://promisesaplus.com).
 
 ## Install
 
