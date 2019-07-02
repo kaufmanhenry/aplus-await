@@ -1,7 +1,7 @@
 import aplusAwait from './index';
 
-const promiseWithSuccess = () => new Promise(resolve => resolve('test'));
-const promiseWithError = () => new Promise((resolve, reject) => reject(new Error('error')));
+const promiseWithSuccess = new Promise(resolve => resolve('test'));
+const promiseWithError = new Promise((resolve, reject) => reject(new Error('error')));
 
 describe('aplusAwait()', () => {
   it('should return a proper success', async () => {

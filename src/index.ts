@@ -1,12 +1,14 @@
-export default async function aplusAwait(promise: () => Promise<any>) {
+const aplusAwait = async (promise: Promise<any>) => {
   let response;
   let error;
 
   try {
-    response = await promise();
+    response = await promise;
   } catch (err) {
     error = err;
   }
 
   return [response, error];
-}
+};
+
+export default aplusAwait;
