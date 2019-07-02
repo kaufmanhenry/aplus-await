@@ -11,6 +11,7 @@
     "noImplicitAny": true,
     "forceConsistentCasingInFileNames": true,
     "noUnusedLocals": true,
-    "pretty": true
+    "pretty": true,
+    "esModuleInterop": true
   }
 }

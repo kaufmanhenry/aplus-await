@@ -11,4 +11,4 @@ const aplusAwait = async (promise: Promise<any>) => {
   return [response, error];
 };
 
-export default aplusAwait;
+export = aplusAwait;
