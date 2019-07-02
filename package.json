@@ -1,6 +1,6 @@
 {
   "name": "aplus-await",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "dist/index.js",
   "repository": "git@github.com:hcjk/aplus-await.git",
   "author": "Henry Kaufman <hkaufman19@gmail.com>",
